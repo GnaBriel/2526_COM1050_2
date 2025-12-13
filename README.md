@@ -17,3 +17,9 @@ Day 3:
 3433. Count Mentions Per User: https://leetcode.com/problems/count-mentions-per-user/submissions/1853772848
 
 808. Soup Servings: https://leetcode.com/problems/soup-servings/submissions/1853814650
+
+Day 4:
+
+5. Longest Palindromic Substring: https://leetcode.com/problems/longest-palindromic-substring/submissions/1854512656
+
+42. Trapping Rain Water: https://leetcode.com/problems/trapping-rain-water/submissions/1854541529
