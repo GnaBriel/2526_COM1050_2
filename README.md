@@ -32,6 +32,11 @@ Day 5:
 
 Day 6:
 
+3432. Count Partitions with Even Sum Difference: https://leetcode.com/problems/count-partitions-with-even-sum-difference/submissions/1856807466
+
+3512. Minimum Operations to Make Array Sum Divisible by K: https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/submissions/1856808774
+
+
 2110. Number of Smooth Descent Periods of a Stock: https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/submissions/1856087285
 
 36. Valid Sudoku: https://leetcode.com/problems/valid-sudoku/submissions/1856133501
