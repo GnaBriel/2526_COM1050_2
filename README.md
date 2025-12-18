@@ -47,3 +47,9 @@ Day 8:
 167. Two Sum II - Input Array Is Sorted: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1857793316
 
 34. Find First and Last Position of Element in Sorted Array: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1857699450
+
+Day 9:
+
+129. Sum Root to Leaf Numbers: https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/1858941442
+
+3652. Best Time to Buy and Sell Stock using Strategy: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/submissions/1858831112
