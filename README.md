@@ -53,3 +53,9 @@ Day 9:
 129. Sum Root to Leaf Numbers: https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/1858941442
 
 3652. Best Time to Buy and Sell Stock using Strategy: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/submissions/1858831112
+
+Day 10:
+
+2092. Find All People With Secret : https://leetcode.com/problems/find-all-people-with-secret/submissions/1859678787
+
+3531. Count Covered Buildings: https://leetcode.com/problems/count-covered-buildings/submissions/1859789984
