@@ -59,3 +59,9 @@ Day 10:
 2092. Find All People With Secret : https://leetcode.com/problems/find-all-people-with-secret/submissions/1859678787
 
 3531. Count Covered Buildings: https://leetcode.com/problems/count-covered-buildings/submissions/1859789984
+
+Day 11:
+
+1733. Minimum Number of People to Teach: https://leetcode.com/problems/minimum-number-of-people-to-teach/submissions/1861572385
+
+955. Delete Columns to Make Sorted II: https://leetcode.com/problems/delete-columns-to-make-sorted-ii/submissions/1861440659
