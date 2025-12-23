@@ -71,3 +71,9 @@ Day 12:
 960. Delete Columns to Make Sorted III: https://leetcode.com/problems/delete-columns-to-make-sorted-iii/submissions/1862337169
 
 15. 3Sum: https://leetcode.com/problems/3sum/submissions/1862442886
+
+Day 13:
+
+2054. Two Best Non-Overlapping Events: https://leetcode.com/problems/two-best-non-overlapping-events/submissions/1863085005
+
+2423. Remove Letter To Equalize Frequency: https://leetcode.com/problems/remove-letter-to-equalize-frequency/submissions/1863099019
