@@ -77,3 +77,9 @@ Day 13:
 2054. Two Best Non-Overlapping Events: https://leetcode.com/problems/two-best-non-overlapping-events/submissions/1863085005
 
 2423. Remove Letter To Equalize Frequency: https://leetcode.com/problems/remove-letter-to-equalize-frequency/submissions/1863099019
+
+Day 14:
+
+121. Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1863817032
+
+169. Majority Element: https://leetcode.com/problems/majority-element/submissions/1863817421
